@@ -1,0 +1,3 @@
+ALTER TABLE filial AND cep VARCHAR(9) NOT NULL;
+
+ALTER TABLE filial RENAME TO tb_filial;
